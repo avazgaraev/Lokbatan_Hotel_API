@@ -419,3 +419,4 @@ D:\Projets\Lokbatan hotel\Lokbatan_Hotel_API\Lokbatan_Hotel.Tests\obj\Debug\net8
 D:\Projets\Lokbatan hotel\Lokbatan_Hotel_API\Lokbatan_Hotel.Tests\obj\Debug\net8.0\Lokbatan_Hotel.Tests.pdb
 D:\Projets\Lokbatan hotel\Lokbatan_Hotel_API\Lokbatan_Hotel.Tests\obj\Debug\net8.0\Lokbatan_Hotel.Tests.genruntimeconfig.cache
 D:\Projets\Lokbatan hotel\Lokbatan_Hotel_API\Lokbatan_Hotel.Tests\obj\Debug\net8.0\ref\Lokbatan_Hotel.Tests.dll
+D:\Projets\Lokbatan hotel\Lokbatan_Hotel_API\Lokbatan_Hotel.Tests\obj\Debug\net8.0\Lokbatan_Hotel.Tests.sourcelink.json
