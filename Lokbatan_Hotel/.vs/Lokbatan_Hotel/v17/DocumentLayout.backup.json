@@ -7,16 +7,14 @@
       "RelativeMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|solutionrelative:lokbatan_hotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|d:\\projets\\lokbatan hotel\\lokbatan_hotel_api\\lokbatan_hotel\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|d:\\projets\\lokbatan hotel\\lokbatan_hotel_api\\lokbatan_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|d:\\projets\\lokbatan hotel\\lokbatan_hotel_api\\lokbatan_hotel\\data\\inmemorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|solutionrelative:data\\inmemorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56A9BC34-9837-41E1-86AA-EE8B937321A7}|..\\Lokbatan_Hotel.Tests\\Lokbatan_Hotel.Tests.csproj|d:\\projets\\lokbatan hotel\\lokbatan_hotel_api\\lokbatan_hotel.tests\\integration\\bookingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|d:\\projets\\lokbatan hotel\\lokbatan_hotel_api\\lokbatan_hotel\\services\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{308965FF-9A33-42B6-AE1C-F79B8DDCE23A}|Lokbatan_Hotel.csproj|solutionrelative:services\\homeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56A9BC34-9837-41E1-86AA-EE8B937321A7}|..\\Lokbatan_Hotel.Tests\\Lokbatan_Hotel.Tests.csproj|d:\\projets\\lokbatan hotel\\lokbatan_hotel_api\\lokbatan_hotel.tests\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,47 +34,49 @@
               "RelativeDocumentMoniker": "Lokbatan_Hotel.csproj",
               "ToolTip": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\Lokbatan_Hotel.csproj",
               "RelativeToolTip": "Lokbatan_Hotel.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-25T13:09:01.624Z",
+              "WhenOpened": "2025-07-27T09:40:30.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-07-25T12:46:38.364Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:38:58.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InMemoryData.cs",
-              "DocumentMoniker": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\Data\\InMemoryData.cs",
-              "RelativeDocumentMoniker": "Data\\InMemoryData.cs",
-              "ToolTip": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\Data\\InMemoryData.cs",
-              "RelativeToolTip": "Data\\InMemoryData.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAAAKAAAAAAAAAA==",
+              "Title": "BookingTest.cs",
+              "DocumentMoniker": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel.Tests\\Integration\\BookingTest.cs",
+              "RelativeDocumentMoniker": "..\\Lokbatan_Hotel.Tests\\Integration\\BookingTest.cs",
+              "ToolTip": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel.Tests\\Integration\\BookingTest.cs",
+              "RelativeToolTip": "..\\Lokbatan_Hotel.Tests\\Integration\\BookingTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T11:39:32.819Z"
+              "WhenOpened": "2025-07-27T09:38:32.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeService.cs",
-              "DocumentMoniker": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\Services\\HomeService.cs",
-              "RelativeDocumentMoniker": "Services\\HomeService.cs",
-              "ToolTip": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel\\Services\\HomeService.cs",
-              "RelativeToolTip": "Services\\HomeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T11:38:28.476Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel.Tests\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Lokbatan_Hotel.Tests\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projets\\Lokbatan hotel\\Lokbatan_Hotel_API\\Lokbatan_Hotel.Tests\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Lokbatan_Hotel.Tests\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T09:29:13.979Z",
+              "EditorCaption": ""
             }
           ]
         }
